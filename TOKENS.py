@@ -137,5 +137,3 @@ class TTATB:
         assembly_instructions = TTATB.tokens_to_assembly(tokens)
         binary_instructions = TTATB.assembly_to_binary(assembly_instructions)
         return binary_instructions
-
-#PLEASE no one steal!
